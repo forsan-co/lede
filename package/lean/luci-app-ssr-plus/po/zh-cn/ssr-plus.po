@@ -10,6 +10,9 @@ msgstr "启用"
 msgid "Disable"
 msgstr "停用"
 
+msgid "Log"
+msgstr "日志"
+
 msgid "ShadowSocksR is running"
 msgstr "ShadowSocksR 客户端运行中"
 
@@ -366,7 +369,7 @@ msgid "GFW List"
 msgstr "GFW列表"
 
 msgid "ShadowSocksR Plus+ Settings"
-msgstr "ShadowSocksR Plus+ 设置"
+msgstr "ShadowSocksR Plus+ 设置（支持SS/SSR/V2RAY）"
 
 msgid "Main Server"
 msgstr "主服务器"
@@ -439,3 +442,33 @@ msgstr "通过路由器自身代理更新订阅（不推荐）"
 
 msgid "LAN IP AC"
 msgstr "LAN IP访问控制"
+
+msgid "Game Mode UDP Server"
+msgstr "游戏模式UDP中继服务器"
+
+msgid "Game Mode UDP Relay"
+msgstr "游戏模式UDP中继"
+
+msgid "Server failsafe auto swith settings"
+msgstr "服务器节点故障自动切换设置"
+
+msgid "Delete all severs"
+msgstr "删除所有服务器"
+
+msgid "Severs Nodes"
+msgstr "服务器节点"
+
+msgid "Use Local DNS Service listen port 5335"
+msgstr "使用本机端口为5335的DNS服务"
+
+msgid "Server Node Type"
+msgstr "服务器节点类型"
+
+msgid "Using incorrect encryption mothod may causes service fail to start"
+msgstr "输入不正确的参数组合可能会导致服务无法启动"
+
+msgid "Game Mode Host List"
+msgstr "增强游戏模式客户端 LAN IP"
+
+msgid "Server Count"
+msgstr "服务器节点数"
